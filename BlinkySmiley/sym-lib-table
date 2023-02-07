@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "WS2812-2020")(type "KiCad")(uri "${KICAD6_3RD_PARTY}/3rdparty/WS2812-2020/WS2812-2020.kicad_sym")(options "")(descr ""))
+  (lib (name "TS-1187A-B-A-B")(type "KiCad")(uri "${KICAD6_3RD_PARTY}/3rdparty/TS-1187A/TS-1187A-B-A-B.kicad_sym")(options "")(descr ""))
+  (lib (name "AP3012KTR-G1")(type "KiCad")(uri "${KICAD6_3RD_PARTY}/3rdparty/AP3012KTR-G1/AP3012KTR-G1.kicad_sym")(options "")(descr ""))
+)

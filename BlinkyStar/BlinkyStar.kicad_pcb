@@ -688,7 +688,7 @@
     (property "Sheetfile" "BlinkyStar.kicad_sch")
     (property "Sheetname" "")
     (path "/3e94d44a-70c4-4bb5-9e35-31380cd7e9e8")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "H1" (at 0 -4.2) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f29841ef-da0e-4afc-a338-28336b85dc4f)
@@ -1604,7 +1604,7 @@
     (property "Sheetfile" "BlinkyStar.kicad_sch")
     (property "Sheetname" "")
     (path "/66678a37-5064-4649-847e-485b949c3ecf")
-    (attr through_hole)
+    (attr through_hole exclude_from_bom)
     (fp_text reference "J1" (at 1.27 -2.33 90) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 424bcbd2-89cd-40a6-8919-f7159433686e)
@@ -2061,7 +2061,7 @@
     (property "Sheetfile" "BlinkyStar.kicad_sch")
     (property "Sheetname" "")
     (path "/ed42294b-946b-4107-a1d4-a71cb61a2c82")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "Logo1" (at -5.94 -0.15) (layer "B.Fab")
       (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
       (tstamp dc68d604-e968-4980-ac8a-07764feae130)
