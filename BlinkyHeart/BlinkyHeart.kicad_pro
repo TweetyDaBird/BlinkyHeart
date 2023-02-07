@@ -346,7 +346,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "heart.kicad_pro",
+    "filename": "BlinkyHeart.kicad_pro",
     "version": 1
   },
   "net_settings": {
